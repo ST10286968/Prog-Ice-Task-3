@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ibrah\\source\\repos\\Cafe1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E15146FC-7C15-4C7F-8735-5FAEE3A1CDAF}|Cafe1\\Cafe1.csproj|C:\\Users\\ibrah\\source\\repos\\Cafe1\\cafe1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E15146FC-7C15-4C7F-8735-5FAEE3A1CDAF}|Cafe1\\Cafe1.csproj|solutionrelative:cafe1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15146FC-7C15-4C7F-8735-5FAEE3A1CDAF}|Cafe1\\Cafe1.csproj|c:\\users\\ibrah\\source\\repos\\cafe1\\cafe1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15146FC-7C15-4C7F-8735-5FAEE3A1CDAF}|Cafe1\\Cafe1.csproj|solutionrelative:cafe1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Cafe1\\Cafe1\\Form1.cs",
+              "RelativeDocumentMoniker": "Cafe1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Cafe1\\Cafe1\\Form1.cs",
+              "RelativeToolTip": "Cafe1\\Form1.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T14:17:29.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ibrah\\source\\repos\\Cafe1\\Cafe1\\Form1.cs",
+              "RelativeDocumentMoniker": "Cafe1\\Form1.cs",
+              "ToolTip": "C:\\Users\\ibrah\\source\\repos\\Cafe1\\Cafe1\\Form1.cs [Design]",
+              "RelativeToolTip": "Cafe1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T13:58:47.325Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
